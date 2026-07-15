@@ -1,0 +1,3 @@
+2026-07-15 05:48:08.379 +09:00 [INF] Request finished HTTP/2 POST /SaladBowlWidgetService/StopActiveWorkloads - 200 null application/grpc 3ms
+2026-07-15 05:48:09.401 +09:00 [INF] Running State: false
+2026-07-15 05:48:09.664 +09:00 [INF] Received desired state from matrix - 0 workloads:

@@ -1,0 +1,33 @@
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+*.suo
+.vs/
+
+# Runtime logs and generated evidence
+salad-gpu-logs/
+run_*/
+auto_run_*/
+monitor_*/
+*.log
+*.csv
+
+# Local investigation artifacts
+.codex/
+analysis/
+work/
+outputs/
+artifacts/
+SaladAsarExtract/
+salad-gpu-logger-test*/
+
+# Secrets and local configuration
+.env
+*.key
+*.pem
+*.pfx
+*.cookie
+cookies*.json
+
